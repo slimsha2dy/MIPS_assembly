@@ -10,4 +10,4 @@
 
 ### Project 1.3
 * Declare the given equation as a string in the .data area and output the result of the equation. The equation consists only of digits, plus sign, minus sign, and always ends with a single equal sign.
-* ex) equation: "20-19+31-43+46=" ->  output: 35
+* ex) equation(string): "20-19+31-43+46=" ->  output: 35
